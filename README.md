@@ -1,8 +1,8 @@
 # Kaggle Competitions
 
-This repository contains my solutions for Kaggle competitions, AI olympiads, and machine learning tournaments.
+This repository contains my solutions for Kaggle competitions.
 
-The goal of this repository is to collect practical notebooks, experiments, and final solutions for different computer vision, NLP, tabular, and optimization tasks.
+The goal of this repository is to collect notebooks, experiments, and final solutions.
 
 ## Repository Contents
 
@@ -16,13 +16,9 @@ The goal of this repository is to collect practical notebooks, experiments, and 
 ## Topics
 
 - Kaggle competitions
-- Machine learning olympiads
-- Computer vision
 - Image matching
 - Puzzle solving
 - Classification
-- Feature engineering
-- Model validation
 - Submission generation
 
 ## Tools
